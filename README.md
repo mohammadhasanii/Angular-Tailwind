@@ -1,6 +1,6 @@
 # Angular-Tailwind
 
-demp  :
+demo  :
 
 ![Logo](https://raw.githubusercontent.com/mohammadmahdihasani/Angular-Tailwind/master/src/assets/demo.JPG)
 
