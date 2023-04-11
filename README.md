@@ -1,8 +1,6 @@
 # Angular-Tailwind
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
-
-# Demo 
+demp  :
 
 ![Logo](https://raw.githubusercontent.com/mohammadmahdihasani/Angular-Tailwind/master/src/assets/demo.JPG)
 
